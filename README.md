@@ -10,8 +10,8 @@ A contemporary web application using industry's best practices.
 -----------
 
 ``` bash
-git clone https://github.com/mattbishun5/WS-CW-RETAKE
-cd WS-CW-RETAKE
+git clone https://github.com/mattbishun5/WS_Application
+cd WS_Application
 npm start will begin the server
 ```
 
