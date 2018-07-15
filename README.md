@@ -17,8 +17,9 @@ npm start will begin the server
 
 Alternatively you can download the repository from Github, and then unpack the zip file.
 
+``` bash
 Then cd to the file directory in your Command Prompt or Terminal, and run npm start to begin the server.
-
+```
 
 
 # KEY FEATURES
@@ -51,13 +52,13 @@ Once the server is listening on port 8080, http://localhost:8080/ in a browser w
 -----------
 
 
-
 I have improved my application greatly since the first submission. I have implemented a server using NodeJS, express and static enabling my webpage to be loaded onto port 8080, once the server is listening. 
 
-I have also taken the feedback on board from my first submission. I have validated my CSS and html code, as there were issues in my validation in particular in my HTML. I have removed all the errors that it had initially, for both CSS and html. I have eradicated var in HTML, with it occurring once in my jQuery index.js for functionality. Const has replaced var in the HTML completely, for better maintainability. I have also added a hover on click of my buttons within my CSS file, adding a background colour of light blue before clicking.
+I have also taken the feedback on board from my first submission. I have validated my CSS and html code, as there were issues in my validation in particular in my HTML. I have removed all the errors that it had initially, for both CSS and HTML. I have eradicated var in HTML, with it occurring once in my jQuery index.js for functionality. I have used Const to replace var in the HTML.
+I have also added a hover on click of my buttons within my CSS file, adding a background colour of light blue before clicking.
 
-I have removed many script tags of my JavaScript code, in my HTML, as this is poor maintainability. My package. Json file I have created manually, initially by a npm init, and then I have changed areas of it accordingly, such as name, author, and scripts. 
-Also, within this file I have explained in more depth, how to run my application, as well as the key features it has. I have also written a more in-depth reflection of the year and included some forward-thinking discussion.
+I have removed many script tags of my JavaScript code, in my HTML, as this is poor maintainability. My package.json file I have created manually, initially by a npm init, and then I have changed areas of it accordingly, such as name, author, and scripts. 
+Also, within my README file I have explained in more depth how to run my application, as well as the key features it has. I have massively improved my README by learning some markdown, and it has been presented a lot better than my first README file. I have also written a more in-depth reflection of the year and included some forward-thinking discussion.
 
 
 According to industry’s best practices I have changed my code to meet these expectations. I have removed unnecessary comments that are not needed, if the code is self-explanatory. I have declared variables before my functions in the script tag. (Source url: https://www.w3schools.com/js/js_best_practices.asp).
