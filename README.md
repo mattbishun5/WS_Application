@@ -1,6 +1,6 @@
 # WEB SCRIPT APPLICATION - UP812199
 
-=======
+
 
 A contemporary web application using industry's best practices.
 
