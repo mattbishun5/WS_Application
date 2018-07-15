@@ -10,7 +10,7 @@ A contemporary web application using industry's best practices.
 -----------
 
 ``` bash
-git clone https://github.com/mattbishun5/WS_Application
+git clone https://GitHub.com/mattbishun5/WS_Application
 cd WS_Application
 npm start will begin the server
 ```
@@ -65,14 +65,16 @@ According to industry’s best practices I have changed my code to meet these ex
 
 I have also placed my scripts to other local files at the bottom of my HTML page as per industry practices. I have also removed language in my script javascript tag. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
 
-# Year Reflection
-The first 6 weeks of the unit involved grasping some of the main concepts that would be used in the year. Variables were discussed in the early weeks, such as the use of let and const and to not use var! I had some knowledge of this having coded before, and I was able to implement the use of variables in my work. The use of functions to return values, and JSON notation was also something discussed early on. I was familiar with functions, although JSON was something new to me, and I was able to grasp this quite quickly. The MDN website proved to be a great tool here and it was something I was to use later on.
+# YEAR REFLECTION
+The first 6 weeks of the unit involved grasping some of the main concepts that would be used in the year. Variables were discussed in the early weeks, such as the use of let and const and to not use var! I had some knowledge of this having coded before, and I was able to implement the use of variables in my work. The use of functions to return values, and JSON notation was also something discussed early on. I was familiar with functions, although JSON was something new to me, and I was able to grasp this quite quickly. The MDN website proved to be a great tool here to emphasise what I learnt in lectures and practicals, and it was a website I was to use more frequently.
 
-Next, I learnt about the DOM. Javascript can be used to change the elements of a HTML document, and the topic was something relatively new to me. A webpage requires the DOM to work with JS to display an efficient site. 
+Next, I learnt about the DOM. Javascript can be used to change the elements of a HTML document, and the topic was something relatively new to me. A webpage requires the DOM to work with JS to display an efficient site, that looks appealing to a user. 
 
 I struggled though getting to grips with AJAX, asynchronous coding. I was completely in the dark for this and found it hard to understand at first. Although, going over the lecture notes and looking through Google, enabled me to grasp the concept some more.
 
-Once the first Coursework was complete, we moved onto Server side. This is where NodeJS came into play, and I learnt about the various modules that could be required, as well as building a server to host pages on. I found this very enjoyable, and although at first I struggled I went back to MDN, which explained it to me further.
+Once the first Coursework was complete, we moved onto Server side. This is where NodeJS came into play, and I learnt about the various modules that could be required, as well as building a server to host pages on. I found this very enjoyable, and although at first I struggled, I went back to MDN, which explained it to me further. I was able to get some help from colleagues and tutors who were able to look at my code and give me some pointers if I was struggling.
+
+The final Coursework submission was not far away, and so it was a good time to introduce NodeJS and MYSQL, a language I am very familiar with. As I knew I was good at SQL, I thought I wouldn't have problems coding in this language, however the harder part was how this would all come together with NodeJS.
 
 
 
