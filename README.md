@@ -74,7 +74,12 @@ I struggled though getting to grips with AJAX, asynchronous coding. I was comple
 
 Once the first Coursework was complete, we moved onto Server side. This is where NodeJS came into play, and I learnt about the various modules that could be required, as well as building a server to host pages on. I found this very enjoyable, and although at first I struggled, I went back to MDN, which explained it to me further. I was able to get some help from colleagues and tutors who were able to look at my code and give me some pointers if I was struggling.
 
-The final Coursework submission was not far away, and so it was a good time to introduce NodeJS and MYSQL, a language I am very familiar with. As I knew I was good at SQL, I thought I wouldn't have problems coding in this language, however the harder part was how this would all come together with NodeJS.
+The final Coursework submission was not far away, and so it was a good time to introduce NodeJS and MYSQL, a language I am very familiar with. As I knew I was good at SQL, I thought I wouldn't have problems coding in this language, however the harder part was how this would all come together with NodeJS. I worked tirelessly, going through MDN and other material on Moodle, to make sure I understood the topic and was ready to use it in my End of year coursework.
 
+I completed the next coursework to a satisfactory standard, although I felt I should have done better. I made some silly errors in my coursework such as poor identation and I didnt have express as a dependency in my package.json file. This was something to learn from for the final submission.
+
+The final weeks leading up to the end of the year involved particular areas that would be needed in the Final submission. This included Drag and drop, and my tutors used a drag a cat example to implement this. I found this to be very interesting, and I was able to use this API in my final Submission work. Using event listeners such as Dragstart and drop were key aspects of Drag and Drop, and I went over this multiple times to ensure I fully understood the topic.
+
+API's were also studied towards the end of the year. API's use routes as a way of requesting/retrieving data and it was something I looked into as it was an element of the Final coursework. I understood that CRUD - Create, Read, Update, Delete made up an api, and various short URL's are used to obtain or request information.
 
 
