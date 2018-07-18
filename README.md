@@ -67,10 +67,12 @@ According to industry’s best practices I have changed my code to meet these ex
 
 I have also placed my scripts to other local files at the bottom of my HTML page as per industry practices. I originally had these at the top of my file, but have changed this in accordance with the best practices. I have also removed language in my script javascript tag, again which complies with the industrys standards. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
 
+I have also added a keyword meta tag, as described in the URL: https://www.webpagefx.com/blog/web-design/20-html-best-practices-you-should-follow/ on point no 3. According to point no 4 I have used div tags, in particular for my button code. I have also used a CSS file to separate my markup from HTML and CSS, this is a best practice. I have also implemented an unordered list, for my navigation buttons.
+
 
 
 # YEAR REFLECTION
-The first 6 weeks of the unit involved grasping some of the main concepts that would be used in the year. Variables were discussed in the early weeks, such as the use of let and const and to not use var! I had some knowledge of this having coded before, and I was able to implement the use of variables in my work. The use of functions to return values, and JSON notation was also something discussed early on. I was familiar with functions, although JSON was something new to me, and I was able to grasp this quite quickly. The MDN website proved to be a great tool here to emphasise what I learnt in lectures and practicals, and it was a website I was to use more frequently.
+The first 6 weeks of the unit involved grasping some of the main concepts that would be used in the year. Variables were discussed in the early weeks, such as the use of let and const and to not use var! I had some knowledge of this having coded before, and I was able to implement the use of variables in my work. The use of functions to return values, and JSON notation was also something discussed early on. I was familiar with functions, although JSON was something new to me, and I was able to grasp this quite quickly. The MDN website proved to be a great tool here to emphasize what I learnt in lectures and practicals, and it was a website I was to use more frequently.
 
 Next, I learnt about the DOM. Javascript can be used to change the elements of a HTML document, and the topic was something relatively new to me. A webpage requires the DOM to work with JS to display an efficient site, that looks appealing to a user. I was able to pick it up staight away from the lecture and again went to the MDN website for further reading.
 
