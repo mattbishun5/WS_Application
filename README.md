@@ -61,9 +61,13 @@ I have removed many script tags of my JavaScript code, in my HTML, as this is po
 Also, within my README file I have explained in more depth how to run my application, as well as the key features it has. I have massively improved my README by learning some markdown, and it has been presented a lot better than my first README file. I have also written a more in-depth reflection of the year and included some forward-thinking discussion.
 
 
+# INDUSTRY BEST PRACTICES 
+-----------
 According to industry’s best practices I have changed my code to meet these expectations. I have removed unnecessary comments that are not needed, if the code is self-explanatory. I have declared variables before my functions in the script tag. (Source url: https://www.w3schools.com/js/js_best_practices.asp).
 
-I have also placed my scripts to other local files at the bottom of my HTML page as per industry practices. I have also removed language in my script javascript tag. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
+I have also placed my scripts to other local files at the bottom of my HTML page as per industry practices. I originally had these at the top of my file, but have changed this in accordance with the best practices. I have also removed language in my script javascript tag, again which complies with the industrys standards. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
+
+
 
 # YEAR REFLECTION
 The first 6 weeks of the unit involved grasping some of the main concepts that would be used in the year. Variables were discussed in the early weeks, such as the use of let and const and to not use var! I had some knowledge of this having coded before, and I was able to implement the use of variables in my work. The use of functions to return values, and JSON notation was also something discussed early on. I was familiar with functions, although JSON was something new to me, and I was able to grasp this quite quickly. The MDN website proved to be a great tool here to emphasise what I learnt in lectures and practicals, and it was a website I was to use more frequently.
