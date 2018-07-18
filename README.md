@@ -2,7 +2,7 @@
 
 
 
-A contemporary web application using industry's best practices.
+A contemporary web application using industry's best practice.
 
 
 # Downloading the application
@@ -55,21 +55,22 @@ Once the server is listening on port 8080, http://localhost:8080/ in a browser w
 I have improved my application greatly since the first submission. I have implemented a server using NodeJS, express and static enabling my webpage to be loaded onto port 8080, once the server is listening. 
 
 I have also taken the feedback on board from my first submission. I have validated my CSS and HTML code, as there were issues in my validation in particular in my HTML. I have removed all the errors that it had initially, for both CSS and HTML. I have eradicated var in HTML, with it occurring once in my jQuery index.js for functionality. I have used Const to replace var in the HTML.
-I have also added a hover on click of my buttons within my CSS file, adding a background colour of light blue before clicking. I have removed many unnecessary comments, as these do not comply with the industry best practices. I have also kept consistent indentation, to improve readability.
+I have also added a hover on click of my buttons within my CSS file, adding a background colour of light blue before clicking. I have removed many unnecessary comments, as these do not comply with the industry best practice. I have also kept consistent indentation, to improve readability.
 
 I have removed many script tags of my JavaScript code, in my HTML, as this is poor maintainability. My package.json file I have created manually, initially by a npm init, and then I have changed areas of it accordingly, such as name, dependencies, author, and scripts. 
 
 Also, within my README file I have explained in more depth how to run my application, as well as the key features it has. I have massively improved my README by learning some markdown, and it has been presented a lot better than my first README file. I have also written a more in-depth reflection of the year and included how my application has improved from my first submission. To improve my submission, I went through my comments individually and tackled each one. I also did some thorough research online and found many YouTube tutorials, that enabled me to create a server, a working package.json file and create better HTML and CSS mark-up. I also used Stack Overflow (Source url: https://stackoverflow.com/) for help with my index.js.
 
 
-# INDUSTRY BEST PRACTICES 
+# INDUSTRY BEST PRACTICE 
 -----------
-According to industry’s best practices I have changed my code to meet these expectations. I have removed unnecessary comments that are not needed, if the code is self-explanatory. I have declared variables before my functions in the script tag. (Source url: https://www.w3schools.com/js/js_best_practices.asp).
+According to industry’s best practice
+ I have changed my code to meet these expectations. I have removed unnecessary comments that are not needed, if the code is self-explanatory. I have declared variables before my functions in the script tag. (Source url: https://www.w3schools.com/js/js_best_practices.asp).
 
 
-This was a requirement of the application, and so I researched what the best practices are and incorporated this into my work.
+This was a requirement of the application, and so I researched what the best practice are and incorporated this into my work.
 
-I have also placed my scripts to other local files at the bottom of my HTML page as per industry practices. I originally had these at the top of my file but have changed this in accordance with the best practices. I have also removed language in my script JavaScript tag, again which complies with the industry’s standards. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
+I have also placed my scripts to other local files at the bottom of my HTML page as per industry practice. I originally had these at the top of my file but have changed this in accordance with the best practice. I have also removed language in my script JavaScript tag, again which complies with the industry’s standards. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
 
 I have also added a keyword meta tag, as described in the URL: https://www.webpagefx.com/blog/web-design/20-html-best-practices-you-should-follow/ on point no 3. According to point no 4 I have used div tags, in particular for my button code. I have also used a CSS file to separate my mark-up from HTML and CSS, this is a best practice. I have also implemented an unordered list, for my navigation buttons.
 
