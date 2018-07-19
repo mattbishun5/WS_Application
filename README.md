@@ -116,4 +116,5 @@ If this application were to be developed some more, then a native style of dragg
 
 Furthermore, a database could easily be implemented. I had troubles with getting MySQL to connect, and it’s something that would enhance my project greatly. I had the basics with a server, but a fully-fledged database would be something that would improve my application even further.
 
+Given more time, I could create a database, and implement api routes to access the database.
 
