@@ -68,7 +68,7 @@ According to industry’s best practice
  I have changed my code to meet these expectations. I have removed unnecessary comments that are not needed, if the code is self-explanatory. I have declared variables before my functions in the script tag. (Source url: https://www.w3schools.com/js/js_best_practices.asp).
 
 
-This was a requirement of the application, and so I researched what the best practice are and incorporated this into my work.
+This was a requirement of the application, and so I researched what the best practice is and incorporated this into my work.
 
 I have also placed my scripts to other local files at the bottom of my HTML page as per industry practice. I originally had these at the top of my file but have changed this in accordance with the best practice. I have also removed language in my script JavaScript tag, again which complies with the industry’s standards. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
 
@@ -114,7 +114,6 @@ Some extra bits, such as Google Sign in were covered right before the submission
 
 If this application were to be developed some more, then a native style of dragging could be implemented. I used jQuery for my dragging and this works well, however using JavaScript would create an ever-better style of dragging for the user. Additionally, saving plans and exporting plans to other formats could be something implemented further down the line. Also, the use of an undo and redo button would work well and create a more usable application.
 
-Furthermore, a database could easily be implemented. I had troubles with getting MySQL to connect, and it’s something that would enhance my project greatly. I had the basics with a server, but a fully-fledged database would be something that would improve my application even further.
+Furthermore, a database could easily be implemented. I had troubles with getting MySQL to connect, and it’s something that would enhance my project greatly. I had the basics with a server, but a fully-fledged database would be something that would improve my application even further. Given more time, I could create a database, and implement api routes to access the database.
 
-Given more time, I could create a database, and implement api routes to access the database.
 
