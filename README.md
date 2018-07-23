@@ -8,7 +8,7 @@ A contemporary web application using industry's best practice.
 # Downloading the application
 
 -----------
-To run the server on localhost:8080
+To run the server on localhost:8080. You must have installed node modules first.
 
 ``` bash
 git clone https://GitHub.com/mattbishun5/WS_Application
@@ -19,6 +19,7 @@ npm start
 Alternatively, you can download the repository from GitHub, and then unpack the zip file. You must make sure you have NodeJS installed on your machine.
 
 ``` bash
+npm install to download modules
 cd to the file directory and run npm start to begin the server
 ```
 
