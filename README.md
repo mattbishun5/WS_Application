@@ -16,11 +16,14 @@ cd WS_Application
 npm start 
 ```
 
-Alternatively, you can download the repository from GitHub, and then unpack the zip file. You must make sure you have NodeJS installed on your machine.
+Alternatively, you can download the repository from GitHub, and then unpack the zip file. You must make sure you have NodeJS installed on your machine. 
 
 ``` bash
-npm install to download modules
-cd to the file directory and run npm start to begin the server
+npm install to download node_modules
+cd to the file directory where the zip is saved, and run npm start to begin the server
+```
+
+
 ```
 
 
