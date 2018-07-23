@@ -20,17 +20,3 @@ $(document).ready(function() {
         }
     });
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
