@@ -2,7 +2,7 @@
 
 
 
-A contemporary web application using industry best practice.
+The task was to create a contemporary web application using industry best practices that could help tutors design units with different numbers of weeks, lectures and practical sessions with different linked content, multiple practical sessions per lecture and combined lecture and practical sessions.
 
 
 # Downloading the application
