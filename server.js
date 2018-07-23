@@ -9,7 +9,7 @@ const app = express();
 
 
 //Used to load pages under directory to browser
-app.use(express.static('public/docs'));
+app.use(express.static('public'));
 
 
 //Start the application
