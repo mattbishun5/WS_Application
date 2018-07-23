@@ -44,7 +44,7 @@ On the server side
 
 I have implemented a server, which can be ran by typing 
 ``` bash
-npm start in the applications directory 
+npm start 
 ``` 
 Once the server is listening on port 8080, http://localhost:8080/ in a browser will take you to the application.
 
