@@ -42,7 +42,7 @@ I have used jQuery to implement drag and drop. Users can drag cells (which are e
 On the server side
 -----------
 
-I have implemented a server, which can be ran by typing, once in the applications directory.
+I have implemented a server, which can be run by typing, once in the applications directory.
 ``` bash
 npm start 
 ``` 
