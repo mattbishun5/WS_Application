@@ -15,11 +15,8 @@ text-align: center;
 text-decoration: underline;
 font-size: 200%;
 font-family: "Courier new", monospace;              
-font-weight: bold;
-
-    
+font-weight: bold;   
 }
-
 
 /*///Table row and table header design*/
 
@@ -33,9 +30,7 @@ font-weight: bold;
 font-size: 120%;
 text-align: center;
 
-
 }
-
 
 /*///font within editable cells*/
 table td{
@@ -43,9 +38,7 @@ table td{
 font-family: "Courier new", monospace;
 font-size: 100%;
 
-
 }
-
 
 table{
 margin-right: 50px;
@@ -85,16 +78,10 @@ text-align: center;
 background-color: lightblue;
 }
 
-
-
-
 ul,li{
 
 display: block;
 padding: 0.75em 0.5em;
 
 }
-
-
-
 
