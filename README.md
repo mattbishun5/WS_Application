@@ -21,6 +21,7 @@ Alternatively, you can download the repository from GitHub, and then unpack the 
 ``` bash
 npm install 
 cd WS_Application
+npm start
 ```
 
 # KEY FEATURES
