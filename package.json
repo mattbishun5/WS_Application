@@ -1,0 +1,24 @@
+{
+  "name": "web_script_application",
+  "version": "1.0.1",
+  "description": "A contemporary web application",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "mongodb": "^3.1.1",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Matt Bishun",
+  "license": "ISC"
+}
