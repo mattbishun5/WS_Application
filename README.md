@@ -2,7 +2,7 @@
 
 
 
-A contemporary web application using industry's best practice.
+A contemporary web application using industry best practice.
 
 
 # Downloading the application
@@ -67,12 +67,12 @@ Also, within my README file I have explained in more depth how to run my applica
 # INDUSTRY BEST PRACTICE 
 -----------
 
-According to industry’s best practice, I have changed my code to meet these expectations. I have removed unnecessary comments that are not needed, if the code is self-explanatory. I have declared variables before my functions in the script tag. (Source url: https://www.w3schools.com/js/js_best_practices.asp).
+According to industry best practice, I have changed my code to meet these expectations. I have removed unnecessary comments that are not needed, if the code is self-explanatory. I have declared variables before my functions in the script tag. (Source url: https://www.w3schools.com/js/js_best_practices.asp).
 
 
 This was a requirement of the application, and so I researched what the best practice is and incorporated this into my work.
 
-I have also placed my scripts to other local files at the bottom of my HTML page as per industry practice. I originally had these at the top of my file but have changed this in accordance with the best practice. I have also removed language in my script JavaScript tag, again which complies with the industry’s standards. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
+I have also placed my scripts to other local files at the bottom of my HTML page as per industry practice. I originally had these at the top of my file but have changed this in accordance with the best practice. I have also removed language in my script JavaScript tag, again which complies with the industry standard. (Source url: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399). 
 
 I have also added a keyword meta tag, as described in the URL: https://www.webpagefx.com/blog/web-design/20-html-best-practices-you-should-follow/ on point no 3. According to point no 4 I have used div tags, in particular for my button code. I have also used a CSS file to separate my mark-up from HTML and CSS, this is a best practice. I have also implemented an unordered list, for my navigation buttons.
 
