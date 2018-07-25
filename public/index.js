@@ -1,8 +1,10 @@
-/* global $ */
+/*global $*/
+/*eslint-env browser*/
 
-'use strict';
 
-$(document).ready(function() {  
+$(document).ready(function () {  
+    'use strict';
+    
     $('.event').on("dragstart", function (event) {   //finds when dragging an element or text area.
         var dt = event.originalEvent.dataTransfer;
         dt.setData('Text', $(this).attr('id'));
