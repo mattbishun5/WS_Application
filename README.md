@@ -116,7 +116,8 @@ I took what I had learnt throughout each individual practical session and took p
 
 I started this perhaps a little late but was able to create an application I was proud of. The supplied tests on Github were a great help, and I was able to refer to these for help on particular topics such as; api, database and servers. HTML I had no issues with and W3 schools website was a help here for my CSS coding as well. (Source url: https://www.w3schools.com/). I generally could find the solution to my problems quite quickly, either on W3 schools or on Stack Overflow. I had previous HTML and CSS experience so enjoyed this side of the project. What was more challenging was Javascript and jquery, however having studied it thoroughly this year I became more accustomed to it. The functions for adding and removing rows took some time and was probably the hardest part of the project. However, once this was complete everything became much easier.
 
-I was able to create drag and drop to a sufficient standard. I also believe my server was to a good standard, and I was able to learn from my mistakes in my package.json file, such as having dependencies set up correctly.
+I was able to create drag and drop to a sufficient standard. I also believe my server was to a good standard, and I was able to learn from my mistakes in my package.json file, such as having dependencies set up correctly. My HTML and CSS was validated, producing a functional client side application.
+
 
 
 
