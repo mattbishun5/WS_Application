@@ -57,7 +57,7 @@ Once the server is listening on port 8080, http://localhost:8080/ in a browser w
 I have improved my application greatly since the first submission. I have implemented a server using NodeJS, express and static enabling my webpage to be loaded onto port 8080, once the server is listening. 
 
 I have also taken the feedback on board from my first submission. I have validated my CSS and HTML code, as there were issues in my validation in particular in my HTML. I have removed all the errors that it had initially, for both CSS and HTML. I have eradicated var in HTML, with it occurring once in my jQuery index.js for functionality. I have used Const to replace var in the HTML.
-I have also added a hover on click of my buttons within my CSS file, adding a background colour of light blue before clicking. I have removed many unnecessary comments, as these do not comply with the industry best practice. I have also kept consistent indentation, to improve readability.
+I have also added a hover on click of my buttons within my CSS file, adding a background colour of light blue before clicking. I have removed many unnecessary comments, as these do not comply with the industry best practice. I have also kept consistent indentation, to improve readability. I have changed confusing names of function in my index.js such as; date and de.
 
 I have removed many script tags of my JavaScript code, in my HTML, as this is poor maintainability. My package.json file I have created manually, initially by a npm init, and then I have changed areas of it accordingly, such as name, dependencies, author, and scripts. 
 
