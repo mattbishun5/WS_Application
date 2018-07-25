@@ -110,6 +110,14 @@ We learnt about RESTFUL applications. Representational State Transfer is a style
 The final weeks leading up to the end of the year involved particular areas that would be needed in the Final submission. This included Drag and drop, and my tutors used a drag a cat example to implement this. I found this to be very interesting, and I was able to use parts of this API in my final Submission work. Using event listeners such as Drag start and drop were key aspects of Drag and Drop, and I went over this multiple time to ensure I fully understood the topic. 
 
 Some extra bits, such as Google Sign in were covered right before the submission, something which would increase usability, and security of the application. Changing the protocol to Https would enhance my project and make it a more secure and stable application.
+What I learnt throughout the year gave me a good stepping stone to create the final coursework. The majority of the work was done in each week, the final task just involved putting everything together effectively for the task set.
+
+I took what I had learnt throughout each individual practical session and took parts of each week and implemented this into my final submission. I did some thorough reading around  some particular topics such as drag and drop jquery, and html tags. I went back to MDN and looked at YouTube videos to study parts that I wasn’t so familiar with. My code from each practical week was a great help, and I managed to get help from colleagues with my final submission. I also emailed my tutors regularly for help with coding errors.
+
+I started this perhaps a little late but was able to create an application I was proud of. The supplied tests on Github were a great help, and I was able to refer to these for help on particular topics such as; api, database and servers. HTML I had no issues with and W3 schools website was a help here for my CSS coding as well. (Source url: https://www.w3schools.com/). I generally could find the solution to my problems quite quickly, either on W3 schools or on Stack Overflow. I had previous HTML and CSS experience so enjoyed this side of the project. What was more challenging was Javascript and jquery, however having studied it thoroughly this year I became more accustomed to it. The functions for adding and removing rows took some time and was probably the hardest part of the project. However, once this was complete everything became much easier.
+
+I was able to create drag and drop to a sufficient standard. I also believe my server was to a good standard, and I was able to learn from my mistakes in my package.json file, such as having dependencies set up correctly.
+
 
 
 # FORWARD THINKING DISCUSSION
